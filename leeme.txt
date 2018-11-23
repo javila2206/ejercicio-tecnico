@@ -1,0 +1,5 @@
+Requisito: Ejecutar la clase H2Database para iniciar el servidor de bases datos H2. Al ejecutar dicha clase, 
+se iniciara la consola web H2. En caso no inicie la consola web, acceder con la URL http://localhost:8082.
+En caso no inicie el servidor de base de datos, copiar el archivo .h2.server.properties que se encuentra en la carpeta 
+src/main/resources a la carpeta de inicio del usuario, en caso no sea visible dicho archivo desde el IDE en el cual se 
+abre el proyecto Java, acceder a dicho archivo desde el explorador de Windows.
