@@ -9,10 +9,6 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * @author pjudicial
- *
- */
 public class DBManagerTest {
 
 	@Before
